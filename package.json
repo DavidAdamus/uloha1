@@ -1,0 +1,12 @@
+{
+  "name": "uloha1",
+  "version": "1.0.0",
+  "author": "David Adamus <david.adamus@email.cz>",
+  "dependencies": {
+    "redis": "0.12.x"
+  },
+  "engine": {
+    "node" : "0.12.x"
+  }
+}
+
